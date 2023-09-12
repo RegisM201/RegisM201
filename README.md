@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there i'm Michael 👋
 
 🖥️ Aspiring Software Engineer (Undergraduate at the University of Central Florida)<br>⚡ Visit my [portfolio site](https://home.regism201.repl.co)<br>🎒 4th-year computer science major at UCF<br>🌐 Code is life<br>🤖 Learning AI and Machine Learning!<br>💬 Ask me about my current project
 
