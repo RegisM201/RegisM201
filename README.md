@@ -1,6 +1,6 @@
 ### Hi there i'm Michael 👋
 
-🖥️ Software Engineer <br>⚡ Visit my [portfolio site](https://home.regism201.repl.co)<br>🎒 UCF Computer Science Graduate<br>🌐 Code is life<br>🤖 Learning AI and Machine Learning!<br>💬 Ask me about my current project
+🖥️ Software Engineer <br>⚡ Visit my [portfolio site](https://michaelregis.net/)<br>🎒 UCF Computer Science Graduate<br>🌐 Code is life<br>🤖 Learning AI and Machine Learning!<br>💬 Ask me about my current project
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/michael-regis-99a3491b6) 
 
